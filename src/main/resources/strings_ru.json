@@ -1,0 +1,21 @@
+{
+  "pastSongs": "\uD83C\uDFB6 Прошлые песни \uD83C\uDFB6",
+  "favoriteArtists": "\uD83E\uDE76 Любимые исполнители \uD83E\uDE75",
+  "listens": "прослушиваний",
+  "thereIsNothingHere": "Тут ничего нету \uD83E\uDD14",
+  "nowPlaying": "\uD83C\uDFA7 Сейчас играет \uD83C\uDFA7",
+
+  "infoForAccount": "Информация для аккаунта",
+  "age": "Возраст",
+  "gender": "Пол",
+  "subscriber": "Подписчиков",
+  "realName": "Настоящее имя",
+  "country": "Страна",
+  "playcount": "Количество scrobbles",
+  "artistCount": "Количество прослушанных артистов",
+  "trackCount": "Количество прослушанных песен",
+  "albumCount": "Количество прослушанных альбомов",
+  "playlists": "Количество плейлистов",
+  "registered": "Зарегистрирован",
+  "link": "Ссылка"
+}

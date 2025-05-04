@@ -1,0 +1,21 @@
+{
+  "pastSongs": "\uD83C\uDFB6 Минулі пісні \uD83C\uDFB6",
+  "favoriteArtists": "\uD83E\uDE76 Улюблені виконавці \uD83E\uDE75",
+  "listens": "прослуховувань",
+  "thereIsNothingHere": "Тут нічого немає \uD83E\uDD14",
+  "nowPlaying": "\uD83C\uDFA7 Зараз грає \uD83C\uDFA7",
+
+  "infoForAccount": "Інформація для акаунта",
+  "age": "Вік",
+  "gender": "Стать",
+  "subscriber": "Передплатників",
+  "realName": "Справжнє ім'я",
+  "country": "Країна",
+  "playcount": "Кількість scrobbles",
+  "artistCount": "Кількість прослуханих артистів",
+  "trackCount": "Кількість прослуханих пісень",
+  "albumCount": "Кількість прослуханих альбомів",
+  "playlists": "Кількість плейлистів",
+  "registered": "Зареєстровано",
+  "link": "Посилання"
+}

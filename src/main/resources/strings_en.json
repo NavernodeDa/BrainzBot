@@ -1,0 +1,21 @@
+{
+  "pastSongs": "\uD83C\uDFB6 Past songs \uD83C\uDFB6",
+  "favoriteArtists": "\uD83E\uDE76 Favorite Artists \uD83E\uDE75",
+  "listens": "listens",
+  "thereIsNothingHere": "There's nothing here \uD83E\uDD14",
+  "nowPlaying": "\uD83C\uDFA7 Now playing \uD83C\uDFA7",
+
+  "infoForAccount": "Information for the account",
+  "age": "Age",
+  "gender": "Gender",
+  "subscriber": "Subscriber",
+  "realName": "Real name",
+  "country": "Country",
+  "playcount": "The number of scrobbles",
+  "artistCount": "The number of artists listened",
+  "trackCount": "The number of songs listened",
+  "albumCount": "The number of albums listened",
+  "playlists": "The number of playlists",
+  "registered": "Registered",
+  "link": "Link"
+}
