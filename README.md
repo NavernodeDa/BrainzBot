@@ -7,12 +7,10 @@ Kotlin-based Telegram bot for tracking and updating information about user's mus
 Insert the required values into src/main/resources/config.properties:
 
 ```properties
-Data.apiKey=ap1K3y40r1astFm
-Data.user=user_from_last_fm
+Data.user=user_from_listenBrainz
 Data.tokenBot=1234567890:tokenForYourTelegramBot
 Data.chatId=chatId for your chat/channel
 Data.messageId=id of the message that will be changed in chat/channel
-Data.userAgent=user agent for Last.fm library
 Data.updateInterval=interval in minutes
 Data.limitForArtists=limit for list of artists
 Data.limitForTracks=limit for list of recent tracks
@@ -35,9 +33,10 @@ You can also create your own localization. To do this, change the string values 
 
 ## Usage
 - ![](https://avatars.githubusercontent.com/u/57418018?s=24) [Kotlin-telegram-bot](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) for Telegram API.
+- [listenbrainz-client](https://github.com/rain0r/listenbrainz-client) for ListenBrainz API.
 - ![](https://avatars.githubusercontent.com/u/1521407?s=24) [Slf4j](https://github.com/qos-ch/slf4j) for logging.
 - ![](https://avatars.githubusercontent.com/u/56219?s=24) [Konfig](https://github.com/npryce/konfig) for work with properties file.
 - ![](https://avatars.githubusercontent.com/u/1446536?s=24) [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) for coroutines (async).
 
 ## License
-MusicProfileBot is under the MIT License. See the [LICENSE](LICENSE) for more information.
+BrainzBot is under the MIT License. See the [LICENSE](LICENSE) for more information.
